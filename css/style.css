@@ -15,3 +15,11 @@
               Il y a également quelques autres petits détails en dehors de ce premier 
               écran à faire soi-même.
 */
+
+:root {
+    --bs-primary-rgb: 220,53,69;
+}
+
+.shoes-nav {
+    
+}
